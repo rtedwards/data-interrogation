@@ -1,0 +1,19 @@
+
+name: interrogate
+channels:
+  - conda-forge
+
+dependencies:
+  - altair
+  - black
+  - numba
+  - numpy
+  - pandas
+  - pip
+  - pydeck
+  - python
+  - safety
+  - scikit-learn
+  - streamlit
+  - xgboost
+  - pip:
